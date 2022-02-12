@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfr&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfr" /> </p>
 
-- 👨‍💻 All of my projects are available at [ahmedabouelleil.com](https://github.com/AhmedFr?tab=repositories)
+- 👨‍💻 All of my projects are available here -> [click](https://github.com/AhmedFr?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
