@@ -1,7 +1,7 @@
 <h1 align="left">Hello world 👋, I'm Ahmed</h1>
 <h3 align="left">A passionate developer, learning and trying fun stuff.</h3>
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedFr)](https://github.com/anuraghazra/github-readme-stats)
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedFr?count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="left">
