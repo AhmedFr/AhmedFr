@@ -1,7 +1,7 @@
 <h1 align="left">Hello world 👋, I'm Ahmed</h1>
 <h3 align="left">A passionate developer, learning and trying fun stuff.</h3>
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedFr&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/Mikatech)
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedFr&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/AhmedFr)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ahmed-abouelleil-9817071b7/" target="_blank">
