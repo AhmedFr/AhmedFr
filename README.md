@@ -3,7 +3,7 @@
 
 <div>
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedFr&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Ahmed's GitHub stats](https://github-readme-stats-xi-gray-60.vercel.app/api?username=AhmedFr&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
   <a href="https://app.daily.dev/AhmedFr"><img src="https://api.daily.dev/devcards/de288220aac5424985679ae8f4199aef.png?r=8hn" width="400" alt="Ahmed Abouelleil's Dev Card"/></a>
   
