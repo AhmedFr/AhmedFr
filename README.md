@@ -2,7 +2,7 @@
 <h3 align="left">A passionate developer, learning and trying fun stuff.</h3>
 
 <div>
-[Ahmed's GitHub stats](https://github-readme-stats-xi-gray-60.vercel.app/api?username=AhmedFr&theme=transparent)
+![Ahmed's GitHub stats](https://github-readme-stats-xi-gray-60.vercel.app/api?username=AhmedFr&theme=transparent)
 </div>
 
 <div align="left">
