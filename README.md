@@ -1,11 +1,6 @@
 <h1 align="left">Hello world 👋, I'm Ahmed</h1>
 <h3 align="left">A passionate developer, learning and trying fun stuff.</h3>
 
-<div>
-  
-[![Ahmed's GitHub stats](https://github-readme-stats-xi-gray-60.vercel.app/api?username=AhmedFr&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ahmed-abouelleil-9817071b7/" target="_blank">
